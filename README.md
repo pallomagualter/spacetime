@@ -1,12 +1,14 @@
 <h1 align="center">
-  💲 GUALTER BANK 💲
+  Boas-vindas ao projeto cápsula do tempo 👋🏼
 </h1>
 
-- Projeto referente a dev week front-end da DIO baseado no projeto do banco Inter.
+- Na trilha Ignite desenvolvemos uma aplicação full-stack, do back-end ao mobile, que funciona como uma cápsula do tempo guardando memórias passadas numa timeline. 
+
+- Cápsula do tempo é uma aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
 <h1 align="center">
-    <img alt="Sign-in-gualter-bank" title="Sign-in-gualter-bank" width="80%"
-    src="https://github.com/pallomagualter/spacetime/spacetime.png" />
+    <img alt="spacetime" title="tela-spacetime" width="80%"
+    src="https://github.com/pallomagualter/spacetime/blob/main/spacetime.png" />
 </h1>
 
 ## 🚀 Tecnologias
@@ -16,25 +18,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Nodejs](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [Nextjs](https://nextjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- e muito mais!!!
   
 
 ## ✅ Checklist recursos requeridos na API:
-<!-- 
+
 - Usuário
 
   - [ ] Cadastrar novo usuário
   - [ ] Efeturar login e retornar token de acesso
 
-- PIX
+-  Memórias
 
-  - [ ] Efetuar solicitação de PIX
-  - [ ] Receber PIX
+  - [ ] Cadastrar nova memória
+  - [ ] Listar memória
+  - [ ] Upload fotos e vídeos
 
 - Regras:
-  - quando receber um pix, salvar na tabela de transação -->
+
+- usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
 ## :memo: Licença
 
