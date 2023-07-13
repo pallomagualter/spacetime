@@ -2,9 +2,9 @@
   Boas-vindas ao projeto cápsula do tempo 👋🏼
 </h1>
 
+<br />
 - Na trilha Ignite desenvolvemos uma aplicação full-stack, do back-end ao mobile, que funciona como uma cápsula do tempo guardando memórias passadas numa timeline. 
-
-- Cápsula do tempo é uma aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+<br />
 
 <h1 align="center">
     <img alt="spacetime" title="tela-spacetime" width="80%"
